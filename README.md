@@ -35,12 +35,19 @@ npm start
 https://gustavoramosm.medium.com/utilidad-de-node-version-manager-nvm-bfbb26079184
 
 Para este proyecto se necesita la version de node 16.8
+
 nvm install 16.8
+
 Para ver todas las versiones de node instaladas
+
 nvm list 
+
 Para usar una en concreto
+
 nvm use 16.8
 
 ahora si puedo lanzar el comando 
+
 npm start
+
 
